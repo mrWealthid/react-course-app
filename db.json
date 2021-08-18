@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "Title": "Learning Javascript2",
+      "Author": "Benjamin Iduwe",
+      "Category": "Advanced Frontend"
+    },
+    {
+      "id": 2,
+      "Title": "Learning React Context hooks",
+      "Author": "Wealth Iduwe",
+      "Category": "HNG8"
+    },
+    {
+      "id": 3,
+      "Title": "Learning React Hooks",
+      "Author": "Benjamin Iduwe",
+      "Category": "Advanced Frontend"
+    },
+    {
+      "id": 4,
+      "Title": "Learning Javascript",
+      "Author": "Benjamin Iduwe",
+      "Category": "HNG8"
+    },
+    {
+      "id": 5,
+      "Title": "Wealth",
+      "Author": "",
+      "Category": "Advanced Frontend"
+    },
+    {
+      "id": 6,
+      "Title": "Fresh",
+      "Author": "Wealth Iduwe",
+      "Category": "Front End Basics"
+    }
+  ]
+}
