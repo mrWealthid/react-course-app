@@ -1,10 +1,10 @@
 {
   "courses": [
     {
-      "id": 1,
-      "Title": "Learning Javascript2",
-      "Author": "Benjamin Iduwe",
-      "Category": "Advanced Frontend"
+      "Title": "Mastering Redux",
+      "Author": "Wealth Iduwe",
+      "Category": "Backend Crash course",
+      "id": 1
     },
     {
       "id": 2,
@@ -13,28 +13,46 @@
       "Category": "HNG8"
     },
     {
-      "id": 3,
-      "Title": "Learning React Hooks",
-      "Author": "Benjamin Iduwe",
-      "Category": "Advanced Frontend"
-    },
-    {
       "id": 4,
       "Title": "Learning Javascript",
       "Author": "Benjamin Iduwe",
       "Category": "HNG8"
     },
     {
-      "id": 5,
-      "Title": "Wealth",
-      "Author": "",
+      "id": 7,
+      "Title": "Learning React Hooks",
+      "Author": "Wealth Iduwe",
       "Category": "Advanced Frontend"
     },
     {
-      "id": 6,
-      "Title": "Fresh",
+      "id": 8,
+      "Title": "Handling Reducers",
       "Author": "Wealth Iduwe",
-      "Category": "Front End Basics"
+      "Category": "Advanced Frontend"
+    },
+    {
+      "id": 9,
+      "Title": "Managing State with Redux",
+      "Author": "Wealth Iduwe",
+      "Category": "Advanced Frontend"
+    },
+    {
+      "id": 10,
+      "Title": "Matering Authentication",
+      "Author": "Wealth Iduwe",
+      "Category": "Advanced Frontend"
+    },
+    {
+      "id": 11,
+      "Title": "Benjamin",
+      "Author": "Wealth Iduwe",
+      "Category": "Advanced Frontend"
+    },
+    {
+      "id": 12,
+      "Title": "Finalist with HNG",
+      "Author": "Wealth Iduwe",
+      "Category": "Advanced Frontend"
     }
   ]
 }
